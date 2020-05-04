@@ -2,11 +2,12 @@
   "name": "wata_exp_mongo",
   "version": "1.0.0",
   "description": "test Watson A access to Mongo database",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js,
+    "test": "echo \"Error: no test specified\" && exit 1""
   },
-  "author": "Len Baker",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
