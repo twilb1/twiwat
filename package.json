@@ -2,9 +2,9 @@
   "name": "wata_exp_mongo",
   "version": "1.0.0",
   "description": "test Watson A access to Mongo database",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Len Baker",
   "license": "ISC",
